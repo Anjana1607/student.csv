@@ -1,0 +1,12 @@
+# Python virtual environments
+venv/
+venv312/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment and editor files
+.env
+.vscode/
+.idea/
